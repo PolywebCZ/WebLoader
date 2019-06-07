@@ -1,9 +1,7 @@
-﻿WebLoader [![Build Status](https://secure.travis-ci.org/janmarek/WebLoader.png?branch=master)](http://travis-ci.org/janmarek/WebLoader)
-=======================
+﻿Component for CSS and JS files loading
 
-Component for CSS and JS files loading
-
-Author: Jan Marek
+Author: Polyweb s.r.o.
+Original Author: Jan Marek
 Licence: MIT
 
 Example
