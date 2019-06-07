@@ -1,5 +1,5 @@
 {
-  "name": "PolywebCZ/WebLoader",
+  "name": "polyweb-cz/webloader",
   "description": "Tool for loading or deploying CSS and JS files into web pages",
   "keywords": [
     "webloader",
